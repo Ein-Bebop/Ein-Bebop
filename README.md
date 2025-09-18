@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Who am I?
-I'm Diego Acosta, I'm based in Monterrey, Mexico and I am a dedicated researcher and computer scientist currently immersed in the world of Artificial Intelligence. I'm currently balancing my time between personal exciting projects and working as a Data Science at ABI.
+I'm Diego Acosta, I'm based in Monterrey, Mexico and I am a dedicated researcher and computer scientist currently immersed in the world of Artificial Intelligence. I'm currently balancing my time between personal exciting projects and working as a Data Scientist at AB InBev.
 
 My primary passion lies in DNN and the power they hold in extracting invaluable insights from data through the magic of AI. Specifically, I've been focusing on the exciting field of Natural Language Processing (NLP), where I'm exploring the endless possibilities AI offers to understand and manipulate human language.
 
